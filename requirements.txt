@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+ipykernel
+matplotlib
+numpy
+pandas
+jax
+jaxlib
+torch
+torchvision
+torchaudio
+tensorflow~=2.16.1
+tensorboard
+keras-tuner
+keras~=3.0.4
+
+statsmodels
+sktime
